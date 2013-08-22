@@ -1,4 +1,4 @@
-# async with easy auto function[
+# async with easy auto function
 
 Easy auto function for async. Uses function and parameter names to determine dependencies.
 
@@ -30,3 +30,7 @@ async.easyAuto(
 ```
 
 The result of the above is 'a b ab d' being printed.
+
+# Caveats
+
+This is a fun example of exploiting JS's dynamic nature. It is not recommended for production code.
