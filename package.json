@@ -1,0 +1,28 @@
+{
+  "name": "async-easy-auto",
+  "version": "0.0.0",
+  "description": "Async with an easy auto function",
+  "main": "async.js",
+  "dependencies": {
+    "async": "~0.2.9",
+    "sugar": "~1.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PopCometLabs/async-easy-auto.git"
+  },
+  "keywords": [
+    "async",
+    "auto"
+  ],
+  "author": "Karl Gyllstrom",
+  "license": "BSD",
+  "gitHead": "ea168202069cd5db118fb1ebc1bbeccabd86f399",
+  "bugs": {
+    "url": "https://github.com/PopCometLabs/async-easy-auto/issues"
+  }
+}
